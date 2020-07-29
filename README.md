@@ -1,14 +1,16 @@
-### Hi there 👋
+### Hey, I'm Carlos! 👋
 
-**carloshaam/carloshaam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--🤓 CPO at [@LiferayCloud](https://github.com/LiferayCloud/) <br>-->
+🇧🇷 Born in Minas Gerais, Brazil
 
-Here are some ideas to get you started:
+<!--### What I'm working on 👨‍💻-->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<!--🧛‍♂️ Currently building a dark theme - [Dracula PRO](https://draculatheme.com/pro) <br>-->
+<!--📚 Currently launching a book - [14 Habits of Highly Productive Developers](https://14habits.com)-->
+
+### Find me elsewhere 🌎
+
+<!--🚀 [Site](https://zenorocha.com) <br>-->
+🐦 [Twitter](https://twitter.com/carloshaam) <br>
+📸 [Instagram](https://instagram.com/) <br>
+💼 [LinkedIn](https://www.linkedin.com/in/) <br>
