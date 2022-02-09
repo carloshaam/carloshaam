@@ -1,6 +1,6 @@
 ### Hey, I'm Carlos! 👋
 
-<!--🤓 CPO at [@LiferayCloud](https://github.com/LiferayCloud/) <br>-->
+<!--🤓 CPO at [@carloshaam](https://github.com/carloshaam/) <br>-->
 🇧🇷 Born in Minas Gerais, Brazil
 
 <!--### What I'm working on 👨‍💻-->
@@ -14,3 +14,5 @@
 🐦 [Twitter](https://twitter.com/carloshaam) <br>
 📸 [Instagram](https://instagram.com/) <br>
 💼 [LinkedIn](https://www.linkedin.com/in/) <br>
+
+![snake gif](https://github.com/carloshaam/carloshaam/blob/master/github-user-contribution.svg)
