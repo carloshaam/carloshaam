@@ -13,5 +13,3 @@
 <!--🚀 [Site](https://carloshaam.com) <br>-->
 [![Linkedin Badge](https://img.shields.io/badge/-carloshaam-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlos-h-moreira/)](https://www.linkedin.com/in/carlos-h-moreira/)
 [![Linkedin Badge](https://img.shields.io/badge/-carloshaam-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/carloshaam)](https://twitter.com/carloshaam)
-
-![snake gif](https://github.com/carloshaam/carloshaam/blob/master/github-user-contribution.svg)
