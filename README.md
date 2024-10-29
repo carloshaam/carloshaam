@@ -29,6 +29,7 @@ Sou apaixonado por transformar requisitos complexos em soluções eficientes e c
 ## 📚 Tecnologias e Áreas de Interesse
 - Explorando mais sobre **Arquitetura de Microsserviços** e **CQRS**
 - Aprendendo mais sobre **Testes Automatizados Avançados** e **Integração Contínua com GitHub Actions**
+  Aprendendo sobre **gRPC**
 
 ## 🏆 Certificações e Conquistas
 - **Certificação PHP Developer** (Pendente) pela Zend
