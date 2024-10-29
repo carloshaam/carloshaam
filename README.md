@@ -15,12 +15,12 @@ Atualmente, sou Analista de Sistema e Desenvolvedor PHP na **Finnet Tecnologia S
 ## 🛠️ O que eu faço
 Sou apaixonado por transformar requisitos complexos em soluções eficientes e colaborativas. Meu foco é sempre a entrega de valor e o alinhamento com as necessidades do negócio, mantendo um perfil proativo, adaptável e com uma comunicação clara, para contribuir efetivamente em todas as etapas do desenvolvimento e com todos os stakeholders.
 
-## 🌟 Projetos em Destaque
+## 🌟 Projetos públicos em Destaque
 - **[Sistema de Gestão de Eventos](https://github.com/carloshaam/event-management)** (Em desenvolvimento): Sistema completo para gestão de eventos com funcionalidades de inscrição, gerenciamento de participantes e integração com APIs de pagamento. Tecnologias: PHP, Laravel, MySQL, Inertia, Vue, Tailwindcss.
 
 **Trabalho com projetos privados que tem direitos autorais que não podem ser expostos, então decidi começar a desenvolver alguns projetos abertos, acompanhem para mais.**.
 
-## 📊 Estatísticas do GitHub
+## 📊 Estatísticas públicas do GitHub
 ![Estatísticas do GitHub de Carlos](https://github-readme-stats.vercel.app/api?username=carloshaam&show_icons=true&hide_rank=true&theme=dark)
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=carloshaam&layout=compact&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carloshaam&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
