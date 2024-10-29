@@ -2,7 +2,7 @@
 
 🇧🇷 **Nascido em Minas Gerais, Brasil, 🎯 Profissional de TI com mais de 10 anos de experiência em desenvolvimento e manutenção de sistemas**
 
-Atualmente, sou Analista de Sistema e Desenvolvedor PHP na **Finnet Tecnologia S/A**, onde trabalho com operações financeiras de risco sacado multi banco. Antes disso, tive a oportunidade de atuar na **Braip**, concentrando meus esforços em operações de gateway de pagamento.
+Profissional de TI com mais de 10 anos de experiência em desenvolvimento e manutenção de sistemas, atuando como Analista de Sistema e Desenvolvedor PHP. Atualmente na Finnet Tecnologia S/A, trabalho com operações financeiras de risco sacado multi banco. Anteriormente, na Braip, concentrei-me em operações de gateway de pagamento. Tenho habilidades em análise de requisitos, APIs, Git, Scrum e Kanban, além de conhecimento em arquitetura MVC, TDD, DDD, Docker e AWS. Sou proativo, adaptável e possuo excelente comunicação, colaborando efetivamente com equipes e stakeholders.
 
 ## 🚀 Minhas Habilidades
 - **Desenvolvimento Backend:** PHP com foco em arquitetura MVC, TDD e DDD
