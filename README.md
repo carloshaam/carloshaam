@@ -6,6 +6,7 @@ Atualmente, sou Analista de Sistema e Desenvolvedor PHP na **Finnet Tecnologia S
 
 ## 🚀 Minhas Habilidades
 - **Desenvolvimento Backend:** PHP com foco em arquitetura MVC, TDD e DDD
+- **Frameworks:** Laravel, Symfony, Hyperf, Phalcon, Adonis.js, Nest.js, Nuxt.js, Next.js
 - **Gestão de Contêineres e Cloud:** Docker e AWS
 - **Frontend e Fullstack:** Vue.js e Node.js
 - **Metodologias Ágeis:** Scrum e Kanban
