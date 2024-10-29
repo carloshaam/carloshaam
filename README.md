@@ -19,8 +19,9 @@ Sou apaixonado por transformar requisitos complexos em soluções eficientes e c
 - **[Sistema de Gestão de Eventos](https://github.com/carloshaam/event-management)** (Em desenvolvimento): Sistema completo para gestão de eventos com funcionalidades de inscrição, gerenciamento de participantes e integração com APIs de pagamento. Tecnologias: PHP, Laravel, MySQL, Inertia, Vue, Tailwindcss.
 
 ## 📊 Estatísticas do GitHub
-![Estatísticas do GitHub de Carlos](https://github-readme-stats.vercel.app/api?username=carloshaam&show_icons=true&theme=dark)
+![Estatísticas do GitHub de Carlos](https://github-readme-stats.vercel.app/api?username=carloshaam&show_icons=true&hide_rank=true&theme=dark)
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=carloshaam&layout=compact&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carloshaam&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📚 Tecnologias e Áreas de Interesse
 - Explorando mais sobre **Arquitetura de Microsserviços** e **CQRS**
