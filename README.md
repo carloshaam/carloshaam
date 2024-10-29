@@ -18,6 +18,7 @@ Sou apaixonado por transformar requisitos complexos em soluções eficientes e c
 
 ## 🌟 Projetos públicos em Destaque
 - **[Sistema de Gestão de Eventos](https://github.com/carloshaam/event-management)** (Em desenvolvimento): Sistema completo para gestão de eventos com funcionalidades de inscrição, gerenciamento de participantes e integração com APIs de pagamento. Tecnologias: PHP, Laravel, MySQL, Inertia, Vue, Tailwindcss.
+- **[D4Sign API](https://github.com/carloshaam/d4sign-api)** (Em desenvolvimento): Biblioteca para abstrair a API da D4Sign.
 
 **Trabalho com projetos privados que tem direitos autorais que não podem ser expostos, então decidi começar a desenvolver alguns projetos abertos, acompanhem para mais.**.
 
