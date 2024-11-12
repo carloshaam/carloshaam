@@ -52,9 +52,9 @@ Sou apaixonado por transformar requisitos complexos em soluções eficientes e c
 - **Introduction to Serverless Development** - AWS
 
 ## 📫 Onde Me Encontrar
-- [LinkedIn]([https://www.linkedin.com/in/carloshaam/](https://www.linkedin.com/in/carloshaam/)) [![Linkedin Badge](https://img.shields.io/badge/-carloshaam-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/carloshaam/](https://www.linkedin.com/in/carloshaam/))]([https://www.linkedin.com/in/carloshaam/](https://www.linkedin.com/in/carloshaam/))
+- [LinkedIn](https://www.linkedin.com/in/carloshaam/)
 - [GitHub](https://github.com/carloshaam)
-- [X](https://x.com/carloshaam) ![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2Fcarloshaam&logo=x&labelColor=%23000000&color=%23000000)
+- [X](https://x.com/carloshaam)
 
 Obrigado pela visita ao meu perfil GitHub! Vamos nos conectar e compartilhar ideias 🚀
 
